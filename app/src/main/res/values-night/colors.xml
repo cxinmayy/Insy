@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Scholarly Sanctuary Dark Theme Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_level0">#141218</color>
+    <color name="surface_level1">#211F26</color>
+    <color name="surface_level2">#2B2930</color>
+    
+    <color name="primary_scholarly">#CBC2FA</color>
+    <color name="primary_container">#4A4172</color>
+    
+    <color name="on_surface_variant">#CAC4D0</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+    
+    <color name="track_empty">#49454F</color>
+    
+    <color name="present_chip">#523D50</color>
+    <color name="absent_card">#4E212A</color>
+    <color name="absent_text">#FFB4AB</color>
+    
+    <color name="progress_red">#FFB4AB</color>
+    <color name="progress_green">#82B59C</color>
+</resources>

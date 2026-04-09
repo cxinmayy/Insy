@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Attendance025" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowBackground">#F7F9FC</item>
+        <item name="colorPrimary">#1E5CCB</item>
+
+    </style>
+
+</resources>

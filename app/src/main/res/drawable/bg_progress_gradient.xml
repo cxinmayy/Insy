@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Unfilled Track -->
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="4dp" />
+            <solid android:color="@color/track_empty" />
+        </shape>
+    </item>
+    
+    <!-- Filled Gradient Track -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="4dp" />
+                <gradient
+                    android:startColor="@color/primary_scholarly"
+                    android:endColor="@color/primary_container"
+                    android:angle="0" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>
