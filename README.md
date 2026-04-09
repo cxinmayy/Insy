@@ -42,6 +42,4 @@ Behind the stunning interface lies a solid, fast, offline-first SQLite tracking 
   - `material-calendarview` for rich date visualization.
   - `MPAndroidChart` for generic data graph integrations.
 
----
-
-> **Note:** Update the `<img src="">` tags above with the actual file paths of your screenshots once you have them! 📸
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/cxinmayy)
